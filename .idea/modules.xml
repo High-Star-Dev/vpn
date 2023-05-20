@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Will_VPN_v8.0.iml" filepath="$PROJECT_DIR$/.idea/modules/Will_VPN_v8.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IRBottomNavigationLib/Will_VPN_v8.0.IRBottomNavigationLibb.iml" filepath="$PROJECT_DIR$/.idea/modules/IRBottomNavigationLib/Will_VPN_v8.0.IRBottomNavigationLibb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SmoothCheckBox-master/Will_VPN_v8.0.SmoothCheckBox-masterr.iml" filepath="$PROJECT_DIR$/.idea/modules/SmoothCheckBox-master/Will_VPN_v8.0.SmoothCheckBox-masterr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wheell/Will_VPN_v8.0.Wheell.iml" filepath="$PROJECT_DIR$/.idea/modules/Wheell/Will_VPN_v8.0.Wheell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Will_VPN_v8.0.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Will_VPN_v8.0.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagepicker/Will_VPN_v8.0.imagepickerr.iml" filepath="$PROJECT_DIR$/.idea/modules/imagepicker/Will_VPN_v8.0.imagepickerr.iml" />
+    </modules>
+  </component>
+</project>
