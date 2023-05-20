@@ -1,10 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: io.bidmachine:ads.networks.pangle:1.9.2.3@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bbe3fd3ef34f2503dbfc8165fdc5eaf5/jetified-ads.networks.pangle-1.9.2.3/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/74ebdc0bfb79bd9a5653b7a7d9fc5c52/jetified-ads.networks.pangle-1.9.2.3/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/74ebdc0bfb79bd9a5653b7a7d9fc5c52/jetified-ads.networks.pangle-1.9.2.3/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/74ebdc0bfb79bd9a5653b7a7d9fc5c52/jetified-ads.networks.pangle-1.9.2.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93382d0b58d689a24eaae7e9f5526307/jetified-ads.networks.pangle-1.9.2.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93382d0b58d689a24eaae7e9f5526307/jetified-ads.networks.pangle-1.9.2.3/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

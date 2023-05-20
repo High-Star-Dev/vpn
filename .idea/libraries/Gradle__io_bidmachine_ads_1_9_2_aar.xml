@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: io.bidmachine:ads:1.9.2@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ac7c06c7b266e44cff6b1611bb83d769/jetified-ads-1.9.2/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ac7c06c7b266e44cff6b1611bb83d769/jetified-ads-1.9.2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ac7c06c7b266e44cff6b1611bb83d769/jetified-ads-1.9.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c993b56dab9f56a5279546b96911f78/jetified-ads-1.9.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c993b56dab9f56a5279546b96911f78/jetified-ads-1.9.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c993b56dab9f56a5279546b96911f78/jetified-ads-1.9.2/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -1,10 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.appodeal.ads.sdk.networks:bidmachine:2.11.0.20@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d29396fd344fffaf03d923393b9d7c29/jetified-bidmachine-2.11.0.20/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ef8e01d8fb71838790b72ed8eb6df4c/jetified-bidmachine-2.11.0.20/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ef8e01d8fb71838790b72ed8eb6df4c/jetified-bidmachine-2.11.0.20/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ef8e01d8fb71838790b72ed8eb6df4c/jetified-bidmachine-2.11.0.20/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca5f16ce8c79d97ef11dc5d77f13b169/jetified-bidmachine-2.11.0.20/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca5f16ce8c79d97ef11dc5d77f13b169/jetified-bidmachine-2.11.0.20/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

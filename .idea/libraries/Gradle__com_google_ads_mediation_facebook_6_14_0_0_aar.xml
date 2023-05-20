@@ -1,12 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.ads.mediation:facebook:6.14.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73a776b53c14ba4bca033a0770a6b77d/jetified-facebook-6.14.0.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89d00f35d6dbc24ba1059a1b68f2f7e3/jetified-facebook-6.14.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73a776b53c14ba4bca033a0770a6b77d/jetified-facebook-6.14.0.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73a776b53c14ba4bca033a0770a6b77d/jetified-facebook-6.14.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73a776b53c14ba4bca033a0770a6b77d/jetified-facebook-6.14.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89d00f35d6dbc24ba1059a1b68f2f7e3/jetified-facebook-6.14.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89d00f35d6dbc24ba1059a1b68f2f7e3/jetified-facebook-6.14.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

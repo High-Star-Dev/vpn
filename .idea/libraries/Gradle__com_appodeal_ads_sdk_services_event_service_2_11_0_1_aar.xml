@@ -1,10 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.appodeal.ads.sdk.services:event_service:2.11.0.1@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/67e73751846a391a4e4ff9614e7c6e19/jetified-event_service-2.11.0.1/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bb8ba5d80a44264e0c58c0579930e831/jetified-event_service-2.11.0.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bb8ba5d80a44264e0c58c0579930e831/jetified-event_service-2.11.0.1/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bb8ba5d80a44264e0c58c0579930e831/jetified-event_service-2.11.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/648b8638fc89e9666f04079f927a742a/jetified-event_service-2.11.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/648b8638fc89e9666f04079f927a742a/jetified-event_service-2.11.0.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

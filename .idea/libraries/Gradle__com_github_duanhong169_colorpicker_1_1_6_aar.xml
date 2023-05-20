@@ -1,15 +1,15 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.duanhong169:colorpicker:1.1.6@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ef23763605599334ea28fef4c1fe06c2/jetified-colorpicker-1.1.6/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ef23763605599334ea28fef4c1fe06c2/jetified-colorpicker-1.1.6/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ef23763605599334ea28fef4c1fe06c2/jetified-colorpicker-1.1.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aadf766dedef28084a432841d28f79b3/jetified-colorpicker-1.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aadf766dedef28084a432841d28f79b3/jetified-colorpicker-1.1.6/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aadf766dedef28084a432841d28f79b3/jetified-colorpicker-1.1.6/res" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.duanhong169/colorpicker/1.1.6/9ab4d77a5a93c859656c937de6e2e68086230f50/colorpicker-1.1.6-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.duanhong169/colorpicker/1.1.6/a9700d75bd15df06edffb05bf51f9ce2b36b3b68/colorpicker-1.1.6-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.duanhong169/colorpicker/1.1.6/752d0b70fe2ceb06be973d25b2e8f80a155d2b48/colorpicker-1.1.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.duanhong169/colorpicker/1.1.6/723999bda56396d2ca9dac968c5068b20e73aaec/colorpicker-1.1.6-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
