@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: io.bidmachine:ads.networks.criteo:1.9.2.10@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d72755b5ddb7490ab8680e48c88e526d/jetified-ads.networks.criteo-1.9.2.10/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d72755b5ddb7490ab8680e48c88e526d/jetified-ads.networks.criteo-1.9.2.10/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d72755b5ddb7490ab8680e48c88e526d/jetified-ads.networks.criteo-1.9.2.10/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36e8de93d724a0d58c0b8aaea8a054f5/jetified-ads.networks.criteo-1.9.2.10/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36e8de93d724a0d58c0b8aaea8a054f5/jetified-ads.networks.criteo-1.9.2.10/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36e8de93d724a0d58c0b8aaea8a054f5/jetified-ads.networks.criteo-1.9.2.10/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

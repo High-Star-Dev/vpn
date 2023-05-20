@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.startapp:inapp-sdk:4.10.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/82e9b6e11ef4232218a37b1983392a2b/jetified-inapp-sdk-4.10.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/82e9b6e11ef4232218a37b1983392a2b/jetified-inapp-sdk-4.10.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/82e9b6e11ef4232218a37b1983392a2b/jetified-inapp-sdk-4.10.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1e4b5dea7e69a9d43b07f3db4b5ba199/jetified-inapp-sdk-4.10.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1e4b5dea7e69a9d43b07f3db4b5ba199/jetified-inapp-sdk-4.10.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1e4b5dea7e69a9d43b07f3db4b5ba199/jetified-inapp-sdk-4.10.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.startapp/inapp-sdk/4.10.1/3f5aa3f683762f0c0b84f2532e7fc8eb690cc3a1/inapp-sdk-4.10.1-javadoc.jar!/" />

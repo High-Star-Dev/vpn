@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: com.appodeal.ads.sdk.networks:vast:2.11.0.5@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/254d08ff2f7451b5142ffe67e8ff7b54/jetified-vast-2.11.0.5/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/254d08ff2f7451b5142ffe67e8ff7b54/jetified-vast-2.11.0.5/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/254d08ff2f7451b5142ffe67e8ff7b54/jetified-vast-2.11.0.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8aa828b59a34084d6e358e2553ac16f/jetified-vast-2.11.0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8aa828b59a34084d6e358e2553ac16f/jetified-vast-2.11.0.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8aa828b59a34084d6e358e2553ac16f/jetified-vast-2.11.0.5/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

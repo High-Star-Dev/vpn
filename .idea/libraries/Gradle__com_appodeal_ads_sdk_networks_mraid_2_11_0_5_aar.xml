@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: com.appodeal.ads.sdk.networks:mraid:2.11.0.5@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/381e5bc1e555d99d3380345007e57873/jetified-mraid-2.11.0.5/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/381e5bc1e555d99d3380345007e57873/jetified-mraid-2.11.0.5/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/381e5bc1e555d99d3380345007e57873/jetified-mraid-2.11.0.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/863418698e0c6f16a919d6d3967d4fe5/jetified-mraid-2.11.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/863418698e0c6f16a919d6d3967d4fe5/jetified-mraid-2.11.0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/863418698e0c6f16a919d6d3967d4fe5/jetified-mraid-2.11.0.5/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
